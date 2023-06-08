@@ -11,14 +11,15 @@ knitr::opts_chunk$set(
 )
 ```
 
-# biostats-resource-directory
-
+# Biostatistics Resource Directory
 
 ```{r,echo=FALSE,message=FALSE,warning=FALSE,error=FALSE}
 
-library(tidyverse)
-dat <- read.csv("https://github.mskcc.org/raw/EpiBio/Tuesdays-at-Twelve/master/TuesdaysatTwelve.csv")
-dat %>%
-  mutate(Date = paste0("**", Date, "**")) %>%
-  knitr::kable()
+link_to_file <- 'https://raw.githubusercontent.com/MSKCC-Epi-Bio/biostats-resource-directory/main/resources.csv'
+
+dat <- read.csv(link_to_file)
+names(dat) <- paste0("**", names(dat), "**")
+
+knitr::kable(dat)
+
 ```
