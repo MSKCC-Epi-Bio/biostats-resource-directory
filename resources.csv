@@ -1,0 +1,12 @@
+﻿Topic,Type,Code,Description,Link,Citation
+Survival Analysis,Tutorial,R,"An introduction to survival analysis, and to conducting a survival analysis in R.",https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html,
+Multilevel and Mixed Effects Models,Tutorial,R,Linear Models and Mixed Models with R,,"Winter, B. (2013). Linear models and linear mixed effects models in R with linguistic applications. arXiv:1308.5499. [http://arxiv.org/pdf/1308.5499.pdf]"
+Multilevel and Mixed Effects Models,Book,R,Multilevel starting Chapter 11 ,http://ecologia.ib.usp.br/curso_r/lib/exe/fetch.php/bie5782:00_curso_avancado:uriarte:gelman_hill2007_data_analysis_using_regression_and_multilevel-hierarchical_models.pdf,
+Multilevel and Mixed Effects Models,Tutorial,,Conceptual intro to generalized linear mixed models,https://stats.oarc.ucla.edu/other/mult-pkg/introduction-to-generalized-linear-mixed-models/,
+Longitudinal Data Analysis,Book,R,"Chapter 4, Example for longitudinal data","https://stats.oarc.ucla.edu/r/examples/alda/r-applied-longitudinal-data-analysis-ch-4/ 
+
+https://academic.oup.com/book/41753","Singer, Judith D., and John B. Willett, Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence (New York, 2003; online edn, Oxford Academic, 1 Sept. 2009), https://doi.org/10.1093/acprof:oso/9780195152968.001.0001, accessed 6 June 2023."
+Generalized Estimating Equations,Tutorial,R,General intro to GEE,https://rlbarter.github.io/Practical-Statistics/2017/05/10/generalized-estimating-equations-gee/,
+Generalized Estimating Equations,Tutorial,R,General intro to GEE,https://wildlifesnpits.wordpress.com/2014/10/24/dealing-with-ugly-data-generalized-estimating-equations-gee/,
+Generalized Estimating Equations,Tutorial,,"Quick, informal intro",https://towardsdatascience.com/an-introduction-to-generalized-estimating-equations-bc7dee570478,
+Generalized Estimating Equations,Documentation,R,Documentation of geepack R package,https://rdrr.io/cran/geepack/f/inst/doc/geepack-manual.pdf,
